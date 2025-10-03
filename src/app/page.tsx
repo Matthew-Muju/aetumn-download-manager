@@ -256,7 +256,7 @@ export default function AndroidDownloadManager() {
         <div className="bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl p-6 mb-6 text-white shadow-xl">
           <div className="flex items-center gap-3 mb-2">
             <Download className="w-8 h-8" />
-            <h1 className="text-3xl font-bold">Android Download Manager</h1>
+            <h1 className="text-3xl font-bold">Aetumn Download Manager</h1>
           </div>
           <p className="text-blue-100">Extract and download media from any webpage</p>
         </div>
