@@ -1,6 +1,8 @@
 # Android Download Manager Clone
 *A web-based clone of Internet Download Manager (IDM) designed for Android phones, focusing on media extraction from web pages.*
 
+**Demo Links** : *https://j0cc2852wfr0-deploy.space.z.ai/*
+
 **Features**
 
 🎯 **Core Functionality**
